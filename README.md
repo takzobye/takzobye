@@ -2,9 +2,9 @@
 
 - 🧠 I'm a full stack developer at Zobyeteam and Superfive studio developing game scripts, websites and mobile apps.
 - 🧑‍🎓 I'm currently studying at Kaennakhon Wittayalai School
-- 🧑‍💻 I'm now the lead developer of [Zobyeteam](https://takzobye.dev)
+- 🧑‍💻 I'm now the lead developer of [Zobyeteam](https://zobyeteam.com)
 - 📃 All my works are at [Takzobye's Website](https://takzobye.dev)
-- 📺 Follow other works via YouTube [TAKZOBYE](https://www.youtube.com/@takzobyetzb)
+- 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobyetzb)
 - 💖 This is my team and my bestie [Gene](https://github.com/genezobye) (UI/UI Designer and Front End Developer), [Dew](https://github.com/Generatee) (Full Stack Developer), [Book](https://github.com/InTheLibraryy) (Front End Developer) and [Mek](https://github.com/siripat01) (Trainee).
 - ✉️ Contact me at email takzobye@gmail.com
 
