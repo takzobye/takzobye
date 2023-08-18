@@ -16,7 +16,8 @@
 
 <hr>
 
-[![TAKZOBYE's Github Streak](http://github-readme-streak-stats.herokuapp.com?user=takzobye&theme=radical)](https://git.io/streak-stats)
-![ TAKZOBYE's ](https://takzobye-github-readme-stats.vercel.app/api?username=takzobye&count_private=true&show_icons=true&theme=radical)
+![ TAKZOBYE's Github Streak ](http://github-readme-streak-stats.herokuapp.com?user=takzobye&theme=radical)
 
-![ TAKZOBYE"s ](https://takzobye-github-readme-stats.vercel.app/api/top-langs/?username=takzobye&show_icons=true&theme=radical)
+![ TAKZOBYE's Github Stats ](https://takzobye-github-readme-stats.vercel.app/api?username=takzobye&hide=issues,contribs&show_icons=true&theme=radical)
+
+![ TAKZOBYE"s Github Top Langs ](https://takzobye-github-readme-stats.vercel.app/api/top-langs/?username=takzobye&show_icons=true&theme=radical)
