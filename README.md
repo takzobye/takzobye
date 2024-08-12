@@ -8,7 +8,7 @@
 
 <br>
 <p align=center>
-  <a href="https://www.facebook.com/TAKZOBYETZB/">
+  <a href="https://www.facebook.com/takzobye/">
     <img width="35" src="https://img2.pic.in.th/pic/image278ce93a82b57226.png" />
   </a>
   &nbsp;
@@ -24,7 +24,7 @@
     <img width="35" src="https://img5.pic.in.th/file/secure-sv1/image13de38182f33305e.png">
   </a>
   &nbsp;
-  <a href="https://youtube.com/@takzobyetzb">
+  <a href="https://youtube.com/@takzobye">
     <img width="35" src="https://img2.pic.in.th/pic/imagea6786888838ca79d.png">
   </a>
 </p>
