@@ -1,10 +1,9 @@
 <h2>Hi I'm Thanathip Singkaew (TAKZOBYE)</h2>
 
-- 🧠 I'm a full stack developer at Zobyeteam and Superfive studio developing game scripts, websites and mobile apps.
+- 🧠 I'm a full stack developer at Zobind (Zobyeteam) and Superfive studio developing game scripts, websites and mobile apps.
 - 🧑‍🎓 I'm currently studying at Kasetsart University
 - 🧑‍💻 I'm now the lead developer of [Zobind](https://zobind.com), [Zobyeteam](https://zobyeteam.com) and [Superfive Studio](https://github.com/SuperfiveStudio)
-- 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobyetzb)
-- 💖 This is my team and my bestie [Gene](https://github.com/genezobye) (UI/UI Designer and Front End Developer), [Dew](https://github.com/Generatee) (Full Stack Developer), [Book](https://github.com/InTheLibraryy) (Front End Developer) and [Mek](https://github.com/siripat01) (Trainee).
+- 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobye)
 - ✉️ Contact me at email thanathip@zobind.com
 
 <br>
