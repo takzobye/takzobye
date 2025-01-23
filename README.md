@@ -32,7 +32,8 @@
 <hr>
 
 <p align=center>
-  <img height="200" src="https://streak-stats.demolab.com/?user=takzobye" alt="TAKZOBYE's Github Streak">
+  <img height="200" src="https://github-readme-streak-stats-takzobyes-projects.vercel.app?user=takzobye&theme=dracula" alt="TAKZOBYE's Github Streak">
+  
   <br>
   <!-- 
   <img height="150" src="https://takzobye-github-readme-stats.vercel.app/api?username=takzobye&hide=issues,contribs&show_icons=true&theme=radical&layout=compact" alt="TAKZOBYE"s Github Top Langs (Loading..., Please refresh website.)">
