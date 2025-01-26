@@ -4,7 +4,7 @@
 - 🧑‍🎓 I'm currently studying at Kasetsart University
 - 🧑‍💻 I'm now the lead developer of [Zobind](https://zobind.com), [Zobyeteam](https://zobyeteam.com) and [Superfive Studio](https://github.com/SuperfiveStudio)
 - 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobye)
-- ✉️ Contact me at email thanathip@zobind.com
+- ✉️ Contact me at email takzobye@gmail.com
 
 <br>
 <p align=center>
