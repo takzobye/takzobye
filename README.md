@@ -32,7 +32,7 @@
 <hr>
 
 <p align=center>
-  <img height="200" src="https://github-readme-streak-stats-takzobyes-projects.vercel.app?user=takzobye&theme=dracula" alt="TAKZOBYE's Github Streak">
+  <img height="200" src="https://streak-stats.demolab.com/?user=takzobye&theme=dracula" alt="TAKZOBYE's Github Streak">
   
   <br>
   <!-- 
