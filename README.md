@@ -2,7 +2,7 @@
 
 - 🧠 I'm a full stack developer at Zobind (Zobyeteam) and Superfive studio developing game scripts, websites and mobile apps.
 - 🧑‍🎓 I'm currently studying at Kasetsart University
-- 🧑‍💻 I'm now the lead developer of [Zobind](https://zobind.com), [Zobyeteam](https://zobyeteam.com) and [Superfive Studio](https://github.com/SuperfiveStudio)
+- 🧑‍💻 I'm now the lead developer of [Zobyeteam](https://zobyeteam.com) and [Superfive Studio](https://github.com/SuperfiveStudio)
 - 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobye)
 - ✉️ Contact me at email takzobye@gmail.com
 
