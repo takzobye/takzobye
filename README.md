@@ -1,6 +1,6 @@
 <h2>Hi I'm Thanathip Singkaew (TAKZOBYE)</h2>
 
-- 🧠 I'm a full stack developer at KHON LABS (WIT X, Tangkub, Zobyeteam) and Superfive studio developing game scripts, websites and mobile apps.
+- 🧠 I'm a full stack developer at KHON LABS (Includes WIT X, Tangkub and Zobyeteam) and Superfive studio developing game scripts, websites and mobile apps.
 - 🧑‍🎓 I'm currently studying at Kasetsart University
 - 🧑‍💻 I'm now the lead developer of [WIT X](https://witx.app), [KHON LABS](https://khonlabs.com), [Zobyeteam](https://zobyeteam.com) and [Superfive Studio](https://github.com/SuperfiveStudio)
 - 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobye)
