@@ -4,7 +4,7 @@
 - 🧑‍🎓 I'm currently studying at Kasetsart University
 - 🧑‍💻 I'm now the lead developer of [WIT X](https://witx.in.th), [KHON LABS](https://khonlabs.com), [Zobyeteam](https://zobyeteam.com) and [Superfive Studio](https://github.com/SuperfiveStudio)
 - 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobye)
-- ✉️ Contact me at email takzobye@gmail.com
+- ✉️ Contact me at email thanathip@khonlabs.com
 
 <br>
 <p align=center>
