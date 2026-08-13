@@ -6,28 +6,11 @@
 - 📺 Follow other works via YouTube [TAKZOBYE](https://youtube.com/@takzobye)
 - ✉️ Contact me at email thanathip@khonlabs.com
 
-<br>
-<p align=center>
-  <a href="https://www.facebook.com/takzobye/">
-    <img width="35" src="https://img2.pic.in.th/pic/image278ce93a82b57226.png" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/takzobye/">
-    <img width="35" src="https://img2.pic.in.th/pic/imagefab5e0123dfc9902.png">
-  </a>
-  &nbsp;
-  <a href="https://x.com/takzobye">
-    <img width="35" src="https://img5.pic.in.th/file/secure-sv1/imagea77cc9bd0f7e2992.png">
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/sJ6PJ7C">
-    <img width="35" src="https://img5.pic.in.th/file/secure-sv1/image13de38182f33305e.png">
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@takzobye">
-    <img width="35" src="https://img2.pic.in.th/pic/imagea6786888838ca79d.png">
-  </a>
-</p>
+Socials
+[Facebook](https://www.facebook.com/takzobye/)
+[Instagram](https://instagram.com/takzobye/)
+[Twitter (aka X)](https://x.com/takzobye)
+[Youtube](https://youtube.com/@takzobye)
 
 <hr>
 
